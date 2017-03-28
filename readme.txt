@@ -5,5 +5,10 @@ Git tracks changes
 Create a new branch is quick and simple...
 --no-ff 
 test 
+<<<<<<< Updated upstream
 ---bug 
 Git is free software
+=======
+bug
+>>>>>>> Stashed changes
+stash(0)
