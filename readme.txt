@@ -6,3 +6,4 @@ Create a new branch is quick and simple...
 --no-ff 
 test 
 ---bug 
+Git is free software
