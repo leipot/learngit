@@ -3,12 +3,3 @@ Git is free software distributed under the GPL  .
 Git has a mutable index called stage
 Git tracks changes
 Create a new branch is quick and simple...
---no-ff 
-test 
-<<<<<<< Updated upstream
----bug 
-Git is free software
-=======
-bug
->>>>>>> Stashed changes
-stash(0)
